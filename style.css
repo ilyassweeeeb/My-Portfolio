@@ -1,0 +1,30 @@
+img{
+    margin-left: 200px;
+    border:black solid 1px
+}
+#solo{
+    font-family: 'Gabarito', cursive;
+    text-align:center
+}
+h3{
+    font-family: 'Bebas Neue', sans-serif;;
+}
+footer{
+    font-weight: bold;
+    font-size: medium;
+    margin-top: 150px;
+    margin-left: 270px;
+}
+html{
+    background-image: url("./asset/image/ssssss.jpeg");
+    background-repeat: repeat-y;
+    background-position: left;
+}
+hr{
+    margin: 50px;
+}
+li{
+    color: black;
+    text-align: center;
+}
+
